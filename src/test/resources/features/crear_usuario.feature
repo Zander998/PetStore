@@ -1,6 +1,6 @@
 Feature: Crear usuario PetStore
 
-  @test1 @test3
+  @test1 @test4
   Scenario: Crear usuario
 
     When creo el usuario con username "jperez", firstname "Juan", lastname "Perez"
